@@ -1,0 +1,7 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "matheus-data-portfolio",
+  "compatibility_date": "2026-11-12",
+  "main": "@tanstack/react-start/server-entry",
+  "observability": { "enabled": true }
+}
