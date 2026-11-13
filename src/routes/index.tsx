@@ -188,7 +188,7 @@ function HomeSection() {
           <div className="rounded-full p-2 ring-1 ring-border bg-background">
             {profile.photo ? (
               <img
-                src={cdn(profile.photo, 400)}
+                src={profile.photo}
                 alt={`Foto de ${profile.name}`}
                 width={380}
                 height={380}
