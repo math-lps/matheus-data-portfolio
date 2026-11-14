@@ -327,6 +327,7 @@ function ProjectsSection() {
               className="flex flex-col overflow-hidden rounded-xl border border-border bg-card hover:border-primary/60 transition-colors"
             >
               <img
+                src={p.image}
                 alt={`Prévia do projeto ${p.title}`}
                 width={800}
                 height={450}
