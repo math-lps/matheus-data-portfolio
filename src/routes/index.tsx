@@ -158,7 +158,7 @@ function HomeSection() {
           <p className="text-primary text-sm font-semibold uppercase tracking-[0.2em] mb-5">
             Olá, eu sou
           </p>
-          <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-[1.05]">
+          <h1 className="text-4xl sm:text-5xl lg:text-5xl font-extrabold tracking-tight leading-[1.05] md:whitespace-nowrap">
             {profile.name}
           </h1>
           <p className="mt-5 text-xl sm:text-2xl font-semibold text-foreground/85">
