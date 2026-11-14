@@ -2,9 +2,9 @@
 
 export const profile = {
   name: 'Matheus Augusto Lopes',
-  title: 'Analista de Dados | SQL | Power BI',
+  title: 'Analista de Dados | Business Intelligence | SQL | Power BI',
   intro:
-    'Profissional em transição de carreira para Análise de Dados e Business Intelligence, desenvolvendo projetos práticos com SQL, MySQL, Power BI e Excel.',
+  'Profissional em transição de carreira para Análise de Dados e Business Intelligence, com experiência nas áreas administrativa, operacional e de transportes. Desenvolvo projetos práticos utilizando SQL, MySQL, Power BI, DAX e Excel, aplicando conhecimentos em tratamento, modelagem, análise e visualização de dados para apoiar a tomada de decisões.',
   // Foto profissional exibida na seção inicial.
   photo: '/img/matheus-perfil.jpg',
   linkedin: 'https://www.linkedin.com/in/matheus-augusto-lopes/',
